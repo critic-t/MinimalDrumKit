@@ -1,4 +1,4 @@
-# MinimalDrumKit
+# Minimal Drum Kit
 Minimal Drum Kit using Javascript, HTML and CSS.
 
 Just a web keyboard with different sounds from A across to L.
